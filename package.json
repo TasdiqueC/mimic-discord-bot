@@ -1,0 +1,17 @@
+{
+  "name": "mimic-bot",
+  "version": "1.0.0",
+  "description": "This app is meant to be used for a Discord bot that will read the messages of a user in the server and speak as they do.",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tasdique Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "openai": "^4.87.3",
+    "sqlite3": "^5.1.7"
+  }
+}
