@@ -60,7 +60,7 @@ node src/bot.js
 
 ---
 
-## 📝 Commands
+## Commands
 
 | Command                  | Description                                            |
 | ------------------------ | ------------------------------------------------------ |
@@ -70,7 +70,7 @@ node src/bot.js
 
 ---
 
-## 🏗️ How It Works
+## How It Works
 
 ### `bot.js` (Main File)
 
