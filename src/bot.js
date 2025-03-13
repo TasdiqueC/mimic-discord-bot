@@ -16,8 +16,6 @@ client.once("ready", async () => {
 });
 
 client.on("messageCreate", async (message) => {
-  console.info("Guild ID", message.guildId);
-
   if (message.guildId !== configs.personalServerId) {
     return message.channel.send("You're not in the server I'm intended for");
   }
